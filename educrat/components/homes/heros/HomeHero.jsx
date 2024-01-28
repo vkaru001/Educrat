@@ -37,7 +37,7 @@ const masthead_info = [
 ];
 
 const hero_content = {
-  title: "Learn    with Top",
+  title: "Skills Online with Top",
   text_underline: "Educators",
   info_hero: (
     <>
